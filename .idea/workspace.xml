@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad0f2365-5c76-4694-9322-72735a54a5f5" name="Changes" comment="Snack4 Completed">
-      <change afterPath="$PROJECT_DIR$/src/snacks/Snack5.java" afterDir="false" />
+    <list default="true" id="ad0f2365-5c76-4694-9322-72735a54a5f5" name="Changes" comment="Snack5 Completed">
+      <change afterPath="$PROJECT_DIR$/src/snacks/Snack6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685626104791</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Snack5 Completed">
+      <created>1685628117177</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1685628117177</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -114,7 +121,8 @@
     <MESSAGE value="Snack2 Completed" />
     <MESSAGE value="Snack3 Completed" />
     <MESSAGE value="Snack4 Completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Snack4 Completed" />
+    <MESSAGE value="Snack5 Completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Snack5 Completed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -123,6 +131,11 @@
           <url>file://$PROJECT_DIR$/src/snacks/Snack3.java</url>
           <line>8</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/snacks/Snack5.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
