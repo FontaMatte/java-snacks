@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad0f2365-5c76-4694-9322-72735a54a5f5" name="Changes" comment="Snack3 Completed">
-      <change afterPath="$PROJECT_DIR$/src/snacks/Snack4.java" afterDir="false" />
+    <list default="true" id="ad0f2365-5c76-4694-9322-72735a54a5f5" name="Changes" comment="Snack4 Completed">
+      <change afterPath="$PROJECT_DIR$/src/snacks/Snack5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685624872827</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Snack4 Completed">
+      <created>1685626104791</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1685626104791</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -105,7 +113,8 @@
     <MESSAGE value="Snack1 Completed" />
     <MESSAGE value="Snack2 Completed" />
     <MESSAGE value="Snack3 Completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Snack3 Completed" />
+    <MESSAGE value="Snack4 Completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Snack4 Completed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
