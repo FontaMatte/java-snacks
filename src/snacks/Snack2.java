@@ -15,11 +15,9 @@ public class Snack2 {
         for (int i = 0; i < 10; i++) {
             int randomNumberName = random.nextInt(names.length);
             String name = names[randomNumberName];
-//            System.out.println(name);
 
             int randomNumberSurname = random.nextInt(surnames.length);
             String surname = surnames[randomNumberSurname];
-//            System.out.println(surname);
 
             System.out.println(name +" "+ surname);
         }
